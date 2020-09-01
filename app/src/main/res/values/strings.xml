@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Belajar OOP</string>
+
+    <string name="title_activity_splass_screen">SplassScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="label_pick_image">Pick image</string>
+</resources>
